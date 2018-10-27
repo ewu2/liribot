@@ -1048,3 +1048,204 @@ Error recorded: StatusCodeError: 400 - {"error":"invalid_client","error_descript
 [34m[39m
 [34m---------------------------------------------------[39m
 [34m[39m
+[90mPreview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=2d42d24a8ff447debeab4ba8e91b3a15[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mArtist: Ace of Base[39m
+[90mSong: The Sign[39m
+[90mAlbum: The Sign (US Album) [Remastered][39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mRelease Year: 2014[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mRotten Tomatoes Rating: 59%[39m
+[90mCountry: New Zealand, USA[39m
+[90mLanguage: English[39m
+[90mPlot: Bilbo and company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.[39m
+[90mTitle: The Hobbit: The Battle of the Five Armies[39m
+[90mIMDB Rating: 7.4[39m
+[90mActors: Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mTitle: Casino Royale[39m
+[90mRelease Year: 2006[39m
+[90mIMDB Rating: 8.0[39m
+[90mRotten Tomatoes Rating: 94%[39m
+[90mCountry: UK, Czech Republic, USA, Germany, Bahamas, Italy[39m
+[90mLanguage: English, French[39m
+[90mPlot: Armed with a license to kill, Secret Agent James Bond sets out on his first mission as 007, and must defeat a private banker to terrorists in a high stakes game of poker at Casino Royale, Montenegro, but things are not what they seem.[39m
+[90mActors: Daniel Craig, Eva Green, Mads Mikkelsen, Judi Dench[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Marquee New York (Hosting)[39m
+[90mCity: New York[39m
+[90mCountry: New York[39m
+[90mCountry: United States[39m
+[90mDate: 10/27/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Prudential Center[39m
+[90mCity: Newark[39m
+[90mCountry: NJ[39m
+[90mCountry: United States[39m
+[90mDate: 10/28/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: The Forum[39m
+[90mCity: Los Angeles[39m
+[90mCountry: CA[39m
+[90mCountry: United States[39m
+[90mDate: 11/30/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: TD Garden[39m
+[90mCity: Boston[39m
+[90mCountry: MA[39m
+[90mCountry: United States[39m
+[90mDate: 12/04/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: The Garden[39m
+[90mCity: New York[39m
+[90mCountry: NY[39m
+[90mCountry: United States[39m
+[90mDate: 12/07/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Capital One Arena[39m
+[90mCity: Washington[39m
+[90mCountry: D.C.[39m
+[90mCountry: United States[39m
+[90mDate: 12/10/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: State Farm Arena[39m
+[90mCity: Atlanta[39m
+[90mCountry: GA[39m
+[90mCountry: United States[39m
+[90mDate: 12/14/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Boggus Ford Events Center[39m
+[90mCity: Pharr[39m
+[90mCountry: TX[39m
+[90mCountry: United States[39m
+[90mDate: 11/19/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: 横浜アリーナ[39m
+[90mCity: 横浜市[39m
+[90mCountry: 神奈川県[39m
+[90mCountry: 日本[39m
+[90mDate: 01/30/2019[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: 京セラドーム大阪[39m
+[90mCity: 大阪市[39m
+[90mCountry: 大阪府[39m
+[90mCountry: 日本[39m
+[90mDate: 12/24/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Hyde Bellagio[39m
+[90mCity: Las Vegas[39m
+[90mCountry: NV[39m
+[90mCountry: United States[39m
+[90mDate: 10/31/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Nippon Budokan[39m
+[90mCity: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/06/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: 日本武道館[39m
+[90mCity: 千代田区[39m
+[90mCountry: 東京都[39m
+[90mCountry: 日本[39m
+[90mDate: 11/07/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Kyocera Dome Osaka[39m
+[90mCity: Higashi-osaka[39m
+[90mCountry: Japan[39m
+[90mDate: 12/22/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: 京セラドーム大阪[39m
+[90mCity: 大阪市[39m
+[90mCountry: 大阪府[39m
+[90mCountry: 日本[39m
+[90mDate: 12/23/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
