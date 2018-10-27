@@ -1,0 +1,1050 @@
+Error recorded: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error recorded: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error recorded: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error recorded: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: Backstreet Boys[39m
+[32mSong: I Want It That Way[39m
+[32mPreview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=2d42d24a8ff447debeab4ba8e91b3a15[39m
+[32mAlbum: The Hits--Chapter One[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: OneRepublic[39m
+[32mSong: Apologize[39m
+[32mPreview: null[39m
+[32mAlbum: Dreaming Out Loud[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mTitle: Frozen[39m
+[32mRelease Year: 2013[39m
+[32mIMDB Rating: 7.5[39m
+[32mRotten Tomatoes Rating: 90%[39m
+[32mCountry: USA[39m
+[32mLanguage: English, Norwegian[39m
+[32mPlot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.[39m
+[32mActors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: ANZ Stadium[39m
+[32mCity: Sydney Olympic Park[39m
+[32mCountry: Australia[39m
+[32mDate: 11/02/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: The Gabba[39m
+[32mCity: Woolloongabba[39m
+[32mCountry: Australia[39m
+[32mDate: 11/06/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mt Smart Stadium[39m
+[32mCity: Auckland[39m
+[32mCountry: New Zealand[39m
+[32mDate: 11/09/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/20/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/21/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: ANZ Stadium[39m
+[32mCity: Sydney Olympic Park[39m
+[32mCountry: Australia[39m
+[32mDate: 11/02/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: The Gabba[39m
+[32mCity: Woolloongabba[39m
+[32mCountry: Australia[39m
+[32mDate: 11/06/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mt Smart Stadium[39m
+[32mCity: Auckland[39m
+[32mCountry: New Zealand[39m
+[32mDate: 11/09/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/20/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/21/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: ANZ Stadium[39m
+[32mCity: Sydney Olympic Park[39m
+[32mCountry: Australia[39m
+[32mDate: 11/02/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: The Gabba[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mCity: Woolloongabba[39m
+[32mCountry: Australia[39m
+[32mDate: 11/06/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mt Smart Stadium[39m
+[32mCity: Auckland[39m
+[32mCountry: New Zealand[39m
+[32mDate: 11/09/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/20/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/21/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: ANZ Stadium[39m
+[32mCity: Sydney Olympic Park[39m
+[32mCountry: Australia[39m
+[32mDate: 11/02/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: The Gabba[39m
+[32mCity: Woolloongabba[39m
+[32mCountry: Australia[39m
+[32mDate: 11/06/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Mt Smart Stadium[39m
+[32mCity: Auckland[39m
+[32mCountry: New Zealand[39m
+[32mDate: 11/09/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/20/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/21/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[31m[39m
+[31m---------------------------------------------------[39m
+[31m[39m
+[32mName: ANZ Stadium[39m
+[32mCity: Sydney Olympic Park[39m
+[32mCountry: Australia[39m
+[32mDate: 11/02/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[31m[39m
+[31m---------------------------------------------------[39m
+[31m[39m
+[32mName: The Gabba[39m
+[32mCity: Woolloongabba[39m
+[32mCountry: Australia[39m
+[32mDate: 11/06/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[31m[39m
+[31m---------------------------------------------------[39m
+[31m[39m
+[32mName: Mt Smart Stadium[39m
+[32mCity: Auckland[39m
+[32mCountry: New Zealand[39m
+[32mDate: 11/09/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[31m[39m
+[31m---------------------------------------------------[39m
+[31m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/20/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[31m[39m
+[31m---------------------------------------------------[39m
+[31m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/21/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[32mName: ANZ Stadium[39m
+[32mCity: Sydney Olympic Park[39m
+[32mCountry: Australia[39m
+[32mDate: 11/02/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[32mName: The Gabba[39m
+[32mCity: Woolloongabba[39m
+[32mCountry: Australia[39m
+[32mDate: 11/06/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[32mName: Mt Smart Stadium[39m
+[32mCity: Auckland[39m
+[32mCountry: New Zealand[39m
+[32mDate: 11/09/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/20/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[33m[39m
+[33m---------------------------------------------------[39m
+[33m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/21/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[32mName: ANZ Stadium[39m
+[32mCity: Sydney Olympic Park[39m
+[32mCountry: Australia[39m
+[32mDate: 11/02/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[32mName: The Gabba[39m
+[32mCity: Woolloongabba[39m
+[32mCountry: Australia[39m
+[32mDate: 11/06/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[32mName: Mt Smart Stadium[39m
+[32mCity: Auckland[39m
+[32mCountry: New Zealand[39m
+[32mDate: 11/09/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/20/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[32mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/21/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[34mName: ANZ Stadium[39m
+[32mCity: Sydney Olympic Park[39m
+[32mCountry: Australia[39m
+[32mDate: 11/02/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[34mName: The Gabba[39m
+[32mCity: Woolloongabba[39m
+[32mCountry: Australia[39m
+[32mDate: 11/06/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[34mName: Mt Smart Stadium[39m
+[32mCity: Auckland[39m
+[32mCountry: New Zealand[39m
+[32mDate: 11/09/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[34mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/20/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[34mName: Tokyo Dome[39m
+[32mCity: Tokyo[39m
+[32mCountry: Tokyo[39m
+[32mCountry: Japan[39m
+[32mDate: 11/21/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[34mName: ANZ Stadium[39m
+[34mCity: Sydney Olympic Park[39m
+[34mCountry: Australia[39m
+[34mDate: 11/02/2018[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[34mName: The Gabba[39m
+[34mCity: Woolloongabba[39m
+[34mCountry: Australia[39m
+[34mDate: 11/06/2018[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[34mName: Mt Smart Stadium[39m
+[34mCity: Auckland[39m
+[34mCountry: New Zealand[39m
+[34mDate: 11/09/2018[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[34mName: Tokyo Dome[39m
+[34mCity: Tokyo[39m
+[34mCountry: Tokyo[39m
+[34mCountry: Japan[39m
+[34mDate: 11/20/2018[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[34mName: Tokyo Dome[39m
+[34mCity: Tokyo[39m
+[34mCountry: Tokyo[39m
+[34mCountry: Japan[39m
+[34mDate: 11/21/2018[39m
+[90m[39m
+[90m---------------------------------------------------[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: ANZ Stadium[39m
+[90mCity: Sydney Olympic Park[39m
+[90mCountry: Australia[39m
+[90mDate: 11/02/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: The Gabba[39m
+[90mCity: Woolloongabba[39m
+[90mCountry: Australia[39m
+[90mDate: 11/06/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Mt Smart Stadium[39m
+[90mCity: Auckland[39m
+[90mCountry: New Zealand[39m
+[90mDate: 11/09/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Tokyo Dome[39m
+[90mCity: Tokyo[39m
+[90mCountry: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/20/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Tokyo Dome[39m
+[90mCity: Tokyo[39m
+[90mCountry: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/21/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: ANZ Stadium[39m
+[90mCity: Sydney Olympic Park[39m
+[90mCountry: Australia[39m
+[90mDate: 11/02/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: The Gabba[39m
+[90mCity: Woolloongabba[39m
+[90mCountry: Australia[39m
+[90mDate: 11/06/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Mt Smart Stadium[39m
+[90mCity: Auckland[39m
+[90mCountry: New Zealand[39m
+[90mDate: 11/09/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Tokyo Dome[39m
+[90mCity: Tokyo[39m
+[90mCountry: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/20/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Tokyo Dome[39m
+[90mCity: Tokyo[39m
+[90mCountry: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/21/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: ANZ Stadium[39m
+[90mCity: Sydney Olympic Park[39m
+[90mCountry: Australia[39m
+[90mDate: 11/02/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: The Gabba[39m
+[90mCity: Woolloongabba[39m
+[90mCountry: Australia[39m
+[90mDate: 11/06/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Mt Smart Stadium[39m
+[90mCity: Auckland[39m
+[90mCountry: New Zealand[39m
+[90mDate: 11/09/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Tokyo Dome[39m
+[90mCity: Tokyo[39m
+[90mCountry: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/20/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Tokyo Dome[39m
+[90mCity: Tokyo[39m
+[90mCountry: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/21/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: ANZ Stadium[39m
+[90mCity: Sydney Olympic Park[39m
+[90mCountry: Australia[39m
+[90mDate: 11/02/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: The Gabba[39m
+[90mCity: Woolloongabba[39m
+[90mCountry: Australia[39m
+[90mDate: 11/06/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Mt Smart Stadium[39m
+[90mCity: Auckland[39m
+[90mCountry: New Zealand[39m
+[90mDate: 11/09/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Tokyo Dome[39m
+[90mCity: Tokyo[39m
+[90mCountry: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/20/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Tokyo Dome[39m
+[90mCity: Tokyo[39m
+[90mCountry: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/21/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: ANZ Stadium[39m
+[90mCity: Sydney Olympic Park[39m
+[90mCountry: Australia[39m
+[90mDate: 11/02/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: The Gabba[39m
+[90mCity: Woolloongabba[39m
+[90mCountry: Australia[39m
+[90mDate: 11/06/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Mt Smart Stadium[39m
+[90mCity: Auckland[39m
+[90mCountry: New Zealand[39m
+[90mDate: 11/09/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Tokyo Dome[39m
+[90mCity: Tokyo[39m
+[90mCountry: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/20/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Tokyo Dome[39m
+[90mCity: Tokyo[39m
+[90mCountry: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/21/2018[39m
+[90m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: ANZ Stadium[39m
+[90mCity: Sydney Olympic Park[39m
+[90mCountry: Australia[39m
+[90mDate: 11/02/2018[39m
+[90m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: The Gabba[39m
+[90mCity: Woolloongabba[39m
+[90mCountry: Australia[39m
+[90mDate: 11/06/2018[39m
+[90m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Mt Smart Stadium[39m
+[90mCity: Auckland[39m
+[90mCountry: New Zealand[39m
+[90mDate: 11/09/2018[39m
+[90m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Tokyo Dome[39m
+[90mCity: Tokyo[39m
+[90mCountry: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/20/2018[39m
+[90m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Tokyo Dome[39m
+[90mCity: Tokyo[39m
+[90mCountry: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/21/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[90mName: ANZ Stadium[39m
+[90mCity: Sydney Olympic Park[39m
+[90mCountry: Australia[39m
+[90mDate: 11/02/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[90mName: The Gabba[39m
+[90mCity: Woolloongabba[39m
+[90mCountry: Australia[39m
+[90mDate: 11/06/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[90mName: Mt Smart Stadium[39m
+[90mCity: Auckland[39m
+[90mCountry: New Zealand[39m
+[90mDate: 11/09/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[90mName: Tokyo Dome[39m
+[90mCity: Tokyo[39m
+[90mCountry: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/20/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[90mName: Tokyo Dome[39m
+[90mCity: Tokyo[39m
+[90mCountry: Tokyo[39m
+[90mCountry: Japan[39m
+[90mDate: 11/21/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: Gunna[39m
+[32mSong: Style Stealer (Lil Baby & Gunna)[39m
+[32mPreview: null[39m
+[32mAlbum: Drip Harder[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: Trippie Redd[39m
+[32mSong: Shake It Up[39m
+[32mPreview: null[39m
+[32mAlbum: LIFE'S A TRIP[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: Taylor Swift[39m
+[32mSong: Delicate[39m
+[32mPreview: null[39m
+[32mAlbum: reputation[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mArtist: Taylor Swift[39m
+[90mSong: Delicate[39m
+[90mPreview: null[39m
+[90mAlbum: reputation[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mTitle: Finding Nemo[39m
+[90mRelease Year: 2003[39m
+[90mIMDB Rating: 8.1[39m
+[90mRotten Tomatoes Rating: 99%[39m
+[90mCountry: USA[39m
+[90mLanguage: English[39m
+[90mPlot: After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.[39m
+[90mActors: Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mTitle: Finding Nemo[39m
+[90mRelease Year: 2003[39m
+[90mIMDB Rating: 8.1[39m
+[90mRotten Tomatoes Rating: 99%[39m
+[90mCountry: USA[39m
+[90mLanguage: English[39m
+[90mPlot: After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.[39m
+[90mActors: Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mTitle: Finding Nemo[39m
+[90mRelease Year: 2003[39m
+[90mIMDB Rating: 8.1[39m
+[90mRotten Tomatoes Rating: 99%[39m
+[90mCountry: USA[39m
+[90mLanguage: English[39m
+[90mPlot: After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.[39m
+[90mActors: Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mArtist: Ace of Base[39m
+[90mSong: The Sign[39m
+[90mPreview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=2d42d24a8ff447debeab4ba8e91b3a15[39m
+[90mAlbum: The Sign (US Album) [Remastered][39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: 横浜アリーナ[39m
+[90mCity: 横浜市[39m
+[90mCountry: 神奈川県[39m
+[90mCountry: 日本[39m
+[90mDate: 01/30/2019[39m
+[90m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: 京セラドーム大阪[39m
+[90mCity: 大阪市[39m
+[90mCountry: 大阪府[39m
+[90mCountry: 日本[39m
+[90mDate: 12/24/2018[39m
+[90m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Boggus Ford Events Center[39m
+[90mCity: Pharr[39m
+[90mCountry: TX[39m
+[90mCountry: United States[39m
+[90mDate: 11/19/2018[39m
+[90m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Boggus Ford Events Center[39m
+[90mCity: Pharr[39m
+[90mCountry: TX[39m
+[90mCountry: United States[39m
+[90mDate: 11/19/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mArtist: Ace of Base[39m
+[90mSong: The Sign[39m
+[90mPreview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=2d42d24a8ff447debeab4ba8e91b3a15[39m
+[90mAlbum: The Sign (US Album) [Remastered][39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mArtist: TWICE[39m
+[90mSong: TT[39m
+[90mPreview: https://p.scdn.co/mp3-preview/6d5255801d715912308c6dc237086f2f7d962fe3?cid=2d42d24a8ff447debeab4ba8e91b3a15[39m
+[90mAlbum: TWICEcoaster: LANE1[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mArtist: TWICE[39m
+[90mSong: TT[39m
+[90mPreview: https://p.scdn.co/mp3-preview/6d5255801d715912308c6dc237086f2f7d962fe3?cid=2d42d24a8ff447debeab4ba8e91b3a15[39m
+[90mAlbum: TWICEcoaster: LANE1[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mTitle: Finding Nemo[39m
+[90mRelease Year: 2003[39m
+[90mIMDB Rating: 8.1[39m
+[90mRotten Tomatoes Rating: 99%[39m
+[90mCountry: USA[39m
+[90mLanguage: English[39m
+[90mPlot: After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.[39m
+[90mActors: Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mTitle: My Neighbor Totoro[39m
+[90mRelease Year: 1988[39m
+[90mIMDB Rating: 8.2[39m
+[90mRotten Tomatoes Rating: 94%[39m
+[90mCountry: Japan[39m
+[90mLanguage: Japanese[39m
+[90mPlot: When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.[39m
+[90mActors: Noriko Hidaka, Chika Sakamoto, Shigesato Itoi, Sumi Shimamoto[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mTitle: Princess[39m
+[90mRelease Year: 2006[39m
+[90mIMDB Rating: 6.8[39m
+[90mRotten Tomatoes Rating: 54%[39m
+[90mCountry: Denmark, Germany[39m
+[90mLanguage: Danish[39m
+[90mPlot: Due to his sister's death, the 32 year old August returns and consequently abandons his profession as a missionary priest. His beloved sister Christina, who went from greatness to decay as ...[39m
+[90mActors: Thure Lindhardt, Stine Fischer Christensen, Jens Arentzen, Rasmus Bjerg[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mTitle: My Neighbor Totoro[39m
+[90mRelease Year: 1988[39m
+[90mIMDB Rating: 8.2[39m
+[90mRotten Tomatoes Rating: 94%[39m
+[90mCountry: Japan[39m
+[90mLanguage: Japanese[39m
+[90mPlot: When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.[39m
+[90mActors: Noriko Hidaka, Chika Sakamoto, Shigesato Itoi, Sumi Shimamoto[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mArtist: Backstreet Boys[39m
+[90mSong: I Want It That Way[39m
+[90mPreview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=2d42d24a8ff447debeab4ba8e91b3a15[39m
+[90mAlbum: The Hits--Chapter One[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Boggus Ford Events Center[39m
+[90mCity: Pharr[39m
+[90mCountry: TX[39m
+[90mCountry: United States[39m
+[90mDate: 11/19/2018[39m
+[90m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Boggus Ford Events Center[39m
+[90mCity: Pharr[39m
+[90mCountry: TX[39m
+[90mCountry: United States[39m
+[90mDate: 11/19/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[90mName: Boggus Ford Events Center[39m
+[90mCity: Pharr[39m
+[90mCountry: TX[39m
+[90mCountry: United States[39m
+[90mDate: 11/19/2018[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
