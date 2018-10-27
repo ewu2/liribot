@@ -3,6 +3,7 @@ require("dotenv").config();
 var fs = require("fs");
 var request = require('request');
 var keys = require("./keys.js");
+var moment = require('moment');
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
 var chalk = require('chalk');
@@ -15,19 +16,19 @@ function switchCase() {
   switch (command) {
 
     case 'concert-this':
-      bandsInTown(parameter);                   
+      concertThis(parameter);                   
       break;                          
 
     case 'spotify-this-song':
-      spotifySong(parameter);
+      spotifyThis(parameter);
       break;
 
     case 'movie-this':
-      omdbInfo(parameter);
+      movieThis(parameter);
       break;
 
     case 'do-what-it-says':
-      getRandom();
+      readRandom();
       break;
 
       default:                            
@@ -38,7 +39,7 @@ function switchCase() {
 
 
 //BANDSINTOWN
-function bandsInTown(parameter){
+function concertThis(parameter){
 
 if ('concert-this')
 {
@@ -59,25 +60,23 @@ request(queryUrl, function(error, response, body) {
 
   if (!error && response.statusCode === 200) {
 
-    var JS = JSON.parse(body);
-    for (i = 0; i < JS.length; i++)
+    var bandsObject = JSON.parse(body);
+    for (i = 0; i < bandsObject.length; i++)
     {
-      var dateTime = JS[i].datetime;
-        var month = dateTime.substring(5,7);
-        var year = dateTime.substring(0,4);
-        var day = dateTime.substring(8,10);
-        var dateForm = month + "/" + day + "/" + year
+      var date = moment(bandsObject[i].venue.datetime).format('MM/DD/YYYY');
+      var time = moment(bandsObject[i].venue.datetime).format('hh:mm a');
   
-      display(chalk.blue("\n---------------------------------------------------\n"));
-      display(chalk.grey("Name: " + JS[i].venue.name));
-      display(chalk.grey("City: " + JS[i].venue.city));
-      if (JS[i].venue.region !== "")
+      console.log(chalk.blue("\n---------------------------------------------------\n"));
+      console.log(chalk.grey("Name: " + bandsObject[i].venue.name));
+      console.log(chalk.grey("City: " + bandsObject[i].venue.city));
+      if (bandsObject[i].venue.region !== "")
       {
-        display(chalk.grey("Country: " + JS[i].venue.region));
+        console.log(chalk.grey("Country: " + bandsObject[i].venue.region));
       }
-      display(chalk.grey("Country: " + JS[i].venue.country));
-      display(chalk.grey("Date: " + dateForm));
-      display(chalk.blue("\n---------------------------------------------------\n"));
+      console.log(chalk.grey("Country: " + bandsObject[i].venue.country));
+      console.log(chalk.grey("Date: " + date));
+      console.log(chalk.grey("Time: " + time));
+      console.log(chalk.blue("\n---------------------------------------------------\n"));
     }
   }
 });
@@ -85,66 +84,66 @@ request(queryUrl, function(error, response, body) {
 
 
 //SPOTIFY
-function spotifySong(parameter) {
+function spotifyThis(parameter) {
 
-  var searchTrack;
+  var serachSong;
   if (parameter === undefined) {
-    searchTrack = "Ace of Base The Sign";
+    serachSong = "Ace of Base The Sign";
   } else {
-    searchTrack = parameter;
+    serachSong = parameter;
   }
 
   spotify.search({
     type: 'track',
-    query: searchTrack
+    query: serachSong
   }, function(error, data) {
     if (error) {
-      display('Error recorded: ' + error);
+      console.log('Error recorded: ' + error);
       return;
     } else {
-      display(chalk.blue("\n---------------------------------------------------\n"));
-      display(chalk.grey("Artist: " + data.tracks.items[0].artists[0].name));
-      display(chalk.grey("Song: " + data.tracks.items[0].name));
-      display(chalk.grey("Preview: " + data.tracks.items[3].preview_url));
-      display(chalk.grey("Album: " + data.tracks.items[0].album.name));
-      display(chalk.blue("\n---------------------------------------------------\n")); 
+      console.log(chalk.blue("\n---------------------------------------------------\n"));
+      console.log(chalk.grey("Artist: " + data.tracks.items[0].artists[0].name));
+      console.log(chalk.grey("Song: " + data.tracks.items[0].name));
+      console.log(chalk.grey("Preview: " + data.tracks.items[3].preview_url));
+      console.log(chalk.grey("Album: " + data.tracks.items[0].album.name));
+      console.log(chalk.blue("\n---------------------------------------------------\n")); 
     } 
   });
 };
 
 
 //OMDB
-function omdbInfo(parameter) {
+function movieThis(parameter) {
 
-  var findMovie;
+  var searchMovie;
   if (parameter === undefined) {
-    findMovie = "Mr. Nobody";
+    searchMovie = "Mr. Nobody";
   } else {
-    findMovie = parameter;
+    searchMovie = parameter;
   };
 
-  var queryUrl = "http://www.omdbapi.com/?t=" + findMovie + "&y=&plot=short&apikey=trilogy";
+  var queryUrl = "http://www.omdbapi.com/?t=" + searchMovie + "&y=&plot=short&apikey=trilogy";
   
   request(queryUrl, function(err, res, body) {
   	var bodyOf = JSON.parse(body);
     if (!err && res.statusCode === 200) {
-      display(chalk.blue("\n---------------------------------------------------\n"));
-      display(chalk.grey("Title: " + bodyOf.Title));
-      display(chalk.grey("Release Year: " + bodyOf.Year));
-      display(chalk.grey("IMDB Rating: " + bodyOf.imdbRating));
-      display(chalk.grey("Rotten Tomatoes Rating: " + bodyOf.Ratings[1].Value)); 
-      display(chalk.grey("Country: " + bodyOf.Country));
-      display(chalk.grey("Language: " + bodyOf.Language));
-      display(chalk.grey("Plot: " + bodyOf.Plot));
-      display(chalk.grey("Actors: " + bodyOf.Actors));
-      display(chalk.blue("\n---------------------------------------------------\n"));
+      console.log(chalk.blue("\n---------------------------------------------------\n"));
+      console.log(chalk.grey("Title: " + bodyOf.Title));
+      console.log(chalk.grey("Release Year: " + bodyOf.Year));
+      console.log(chalk.grey("IMDB Rating: " + bodyOf.imdbRating));
+      console.log(chalk.grey("Rotten Tomatoes Rating: " + bodyOf.Ratings[1].Value)); 
+      console.log(chalk.grey("Country: " + bodyOf.Country));
+      console.log(chalk.grey("Language: " + bodyOf.Language));
+      console.log(chalk.grey("Plot: " + bodyOf.Plot));
+      console.log(chalk.grey("Actors: " + bodyOf.Actors));
+      console.log(chalk.blue("\n---------------------------------------------------\n"));
     }
   });
 };
 
 
 //DO WHAT RANDOM.TXT SAYS
-function getRandom() {
+function readRandom() {
 
  fs.readFile('random.txt', "utf8", function(error, data){
 
@@ -153,24 +152,24 @@ function getRandom() {
       }
 
   
-    var dataArr = data.split(",");
+    var dataArray = data.split(",");
     
-    if (dataArr[0] === "spotify-this-song") {
+    if (dataArray[0] === "spotify-this-song") {
         
-      var songcheck = dataArr[1].trim().slice(1, -1);
-      spotifySong(songcheck);
+      var checkSong = dataArray[1].trim().slice(1, -1);
+      spotifyThis(checkSong);
     } 
    
     });
 
 };
 
-//SEND TO LOG.TXT
-function display(dataToLog) {
+//LOG.TXT
+function display(logData) {
 
-	console.log(dataToLog);
+	console.log(logData);
 
-	fs.appendFile('log.txt', dataToLog + '\n', function(err) {
+	fs.appendFile('log.txt', logData + '\n', function(err) {
 		
 		if (err) return display('Error logging data to file: ' + err);	
 	});
